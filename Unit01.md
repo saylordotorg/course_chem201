@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM201: Advanced Organic Chemistry"
+course_description: "A detailed examination of organic chemistry, with particular emphasis on ylides, benzynes, free radicals, stereochemistry, reaction mechanisms and kinetics, organometallics, and heterocyclic compounds."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Reactive Reaction Intermediates** <span id="1"></span> 
 *A reaction intermediate is a short-lived compound that is generated in
 a chemical reaction.  These intermediates are very important because

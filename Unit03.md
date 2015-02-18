@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM201: Advanced Organic Chemistry"
+course_description: "A detailed examination of organic chemistry, with particular emphasis on ylides, benzynes, free radicals, stereochemistry, reaction mechanisms and kinetics, organometallics, and heterocyclic compounds."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Organometallics and Heterocycles** <span id="3"></span> 
 *Remember that organometallics is the study of metals bonded to
 nonmetals, and there is an overlap of studying organometallics in both

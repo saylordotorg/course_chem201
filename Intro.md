@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CHEM201: Advanced Organic Chemistry"
+course_description: "A detailed examination of organic chemistry, with particular emphasis on ylides, benzynes, free radicals, stereochemistry, reaction mechanisms and kinetics, organometallics, and heterocyclic compounds."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "CHEM201: Advanced Organic Chemistry"
 ---------------------------------------------------------
 
