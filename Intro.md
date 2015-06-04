@@ -105,3 +105,10 @@ the next few weeks to complete eachunit.
 **Tips/Suggestions: **This is a very difficult course, so allow time to
 “digest” the material. When needed, review relevant information from the
 prerequisite courses.  Take plenty of notes and review daily.
+
+**Table of Contents:** You can find the course's units at the links below.
+
+- [Unit 1](https://legacy.saylor.org/chem201/Unit01/)
+- [Unit 2](https://legacy.saylor.org/chem201/Unit02/)
+- [Unit 3](https://legacy.saylor.org/chem201/Unit03/)
+- [Unit 4](https://legacy.saylor.org/chem201/Unit04/)
