@@ -127,3 +127,4 @@ prerequisite courses.  Take plenty of notes and review daily.
 - [Unit 2](https://legacy.saylor.org/chem201/Unit02/)
 - [Unit 3](https://legacy.saylor.org/chem201/Unit03/)
 - [Unit 4](https://legacy.saylor.org/chem201/Unit04/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/CHEM/CHEM201/CHEM201-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/CHEM/CHEM201/CHEM201-FinalExam-Answers.html)
