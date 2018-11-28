@@ -98,12 +98,12 @@ and reactions of nitrogen ylides.*
 
 -   **Assessment: The Saylor Foundation’s “Chemistry of Ylides”**
     Link: The Saylor Foundation’s “[Chemistry of
-    Ylides](https://resources.saylor.org/archived/wp-content/uploads/2012/02/CHEM201-1.1-Chemistry-of-ylides-FINAL.pdf)”
+    Ylides](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/CHEM201-1.1-Chemistry-of-ylides-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please complete the assessment.  You can check your
     answers with the answer key provided
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2012/02/CHEM201-1.1-Chemistry-of-ylides-Answer-Key-FINAL.pdf).
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/CHEM201-1.1-Chemistry-of-ylides-Answer-Key-FINAL.pdf).
     (PDF)
 
 **1.2 Benzynes** <span id="1.2"></span> 
@@ -174,12 +174,12 @@ and reactions of nitrogen ylides.*
 
 -   **Assessment: The Saylor Foundation’s “Reactions of Benzynes”**
     Link: The Saylor Foundation’s “[Reactions of
-    Benzynes](https://resources.saylor.org/archived/wp-content/uploads/2012/02/CHEM201-1.2-Reactions-of-benzynes-FINAL.pdf)”
+    Benzynes](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/CHEM201-1.2-Reactions-of-benzynes-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please complete the assessment.  You can check your
     answers with the answer key provided
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2012/02/CHEM201-1.2-Reactions-of-benzynes-Answer-Key-FINAL.pdf).
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/CHEM201-1.2-Reactions-of-benzynes-Answer-Key-FINAL.pdf).
     (PDF)
 
 **1.3 Free Radicals** <span id="1.3"></span> 
@@ -265,11 +265,11 @@ understanding of the reactions of free radicals. *
 
 -   **Assessment: The Saylor Foundation’s “Reactions of Free-Radicals”**
     Link: The Saylor Foundation’s “[Reactions of
-    Free-Radicals](https://resources.saylor.org/archived/wp-content/uploads/2012/02/CHEM201-OC-Free-radicals-FINAL.pdf)”
+    Free-Radicals](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/CHEM201-OC-Free-radicals-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please complete the entire assessment.  You can check
     your answers against the [Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/02/CHEM201-OC-Free-radicals-Answer-Key-FINAL.pdf) (PDF).
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/CHEM201-OC-Free-radicals-Answer-Key-FINAL.pdf) (PDF).
 
 

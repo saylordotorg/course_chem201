@@ -133,12 +133,12 @@ id="3.1.1"></span> 
 -   **Assessment: The Saylor Foundation’s “Organometallic Chemistry in
     Action”**
     Link: The Saylor Foundation’s “[Organometallic Chemistry in
-    Action](https://resources.saylor.org/archived/wp-content/uploads/2012/02/CHEM201-3.1-Organometallic-Chemistry-in-Action-FINAL.doc.pdf)”
+    Action](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/CHEM201-3.1-Organometallic-Chemistry-in-Action-FINAL.doc.pdf)”
     (PDF)  
         
      Instructions: Please complete the entire assessment.  You can check
     your answers with the answer key provided
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2012/02/CHEM201-3.2-Heterocycles-Answer-Key-FINAL.doc.pdf). (PDF)
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/CHEM201-3.2-Heterocycles-Answer-Key-FINAL.doc.pdf). (PDF)
 
 **3.2 Classes of Organic Heterocyclic Compounds** <span
 id="3.2"></span> 
@@ -205,11 +205,11 @@ id="3.2"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Heterocycles”**
     Link: The Saylor Foundation’s
-    “[Heterocycles](https://resources.saylor.org/archived/wp-content/uploads/2012/02/CHEM201-3.2-Heterocycles-FINAL.pdf)”
+    “[Heterocycles](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/CHEM201-3.2-Heterocycles-FINAL.pdf)”
     (PDF)  
       
      Instructions: Please complete the entire assessment.  You can check
     your answers with the answer key provided
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2012/02/CHEM201-3.2-Heterocycles-Answer-Key-FINAL.doc.pdf). (PDF)
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/CHEM201-3.2-Heterocycles-Answer-Key-FINAL.doc.pdf). (PDF)
 
 
