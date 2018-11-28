@@ -205,12 +205,12 @@ id="2.1.6.1"></span> 
 
 -   **Assessment: The Saylor Foundation’s “Stereochemistry in Action”**
     Link: The Saylor Foundation’s “[Stereochemistry in
-    Action](https://resources.saylor.org/archived/wp-content/uploads/2012/02/CHEM201-OC-Stereochemistry-FINAL.pdf)”
+    Action](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/CHEM201-OC-Stereochemistry-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please complete the entire assessment.  You can check
     your answers against the [Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2012/02/CHEM201-OC-Stereochemistry-Answer-key-FINAL.pdf) (PDF).
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/CHEM201-OC-Stereochemistry-Answer-key-FINAL.pdf) (PDF).
 
 **2.2 Reaction Mechanisms** <span id="2.2"></span> 
 -   **Reading: Michigan State University: Professor William Reusch’s
@@ -323,12 +323,12 @@ id="2.2.4"></span> 
 -   **Assessment: The Saylor Foundation’s “Exploring Reaction
     Mechanisms”**
     Link: The Saylor Foundation’s “[Exploring Reaction
-    Mechanisms](https://resources.saylor.org/archived/wp-content/uploads/2012/02/CHEM201-OC-Exploring-Reaction-Mechanisms-FINAL.pdf)”
+    Mechanisms](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/CHEM201-OC-Exploring-Reaction-Mechanisms-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please complete the entire assessment.  You can check
     your answers with the answer key provided
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2012/02/CHEM201-OC-Exploring-Reaction-Mechanisms-Answer-Key-FINAL.pdf). (PDF)
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/CHEM201-OC-Exploring-Reaction-Mechanisms-Answer-Key-FINAL.pdf). (PDF)
 
 **2.2.5 Reactions of Alkyl Halides** <span id="2.2.5"></span> 
 -   **Reading: Michigan State University: Professor William Reusch’s
@@ -390,11 +390,11 @@ id="2.2.4"></span> 
 -   **Assessment: The Saylor Foundation’s “Substitutions and
     Eliminations”**
     Link: The Saylor Foundation’s “[Substitutions and
-    Eliminations](https://resources.saylor.org/archived/wp-content/uploads/2012/02/CHEM201-OC-Substitutions-and-Eliminations-FINAL.pdf)”
+    Eliminations](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/CHEM201-OC-Substitutions-and-Eliminations-FINAL.pdf)”
     (PDF)  
         
      Instructions: Please complete the entire assessment.  You can check
     your answers with the answer key provided
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2012/02/CHEM201-OC-Substitutions-and-Eliminations-Answer-Key-FINAL.pdf). (PDF)
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/02/CHEM201-OC-Substitutions-and-Eliminations-Answer-Key-FINAL.pdf). (PDF)
 
 
